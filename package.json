@@ -12,6 +12,9 @@
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3",
